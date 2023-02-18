@@ -1,0 +1,43 @@
+.video_button1{
+    width:15%;
+    background-color: green;
+    color:white;
+    text-decoration: none;
+    padding:2%;
+    border-radius:10px;
+    display:inline-block;
+    position:fixed;
+    bottom:10px;
+    left:10px;
+    font-weight:bold;
+    font-size:0.9em;
+}
+.breaking_bad{
+    width:45%;
+}
+.button2{
+    display:inline-block;
+    width:20%;
+   
+    background-color: rgb(213, 211, 211);
+    color:rgb(0, 0, 0);
+    text-decoration:none;
+    border:2px solid black;
+    border-radius:10px;
+    font-weight:bold;
+    position:fixed;
+    bottom:10px;
+    left:10px;
+    text-align: bottom;
+}
+.icon{
+    width:25%;
+    margin:10px 0px 0px 90px;
+}
+.button-text{
+    margin-left:60px;
+    font-size:1.2em;
+}
+.button2:hover{
+    background-color:rgb(0, 255, 166)
+}
